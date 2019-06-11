@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the RecoveryServicesBackupClient API (version 2016-06-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/recoveryservicesbackup-registeredIdentities/2016-06-01/swagger.json<br/>
-Generated at: 2019-05-07T17:38:40+03:00
+Generated at: 2019-06-11T18:14:12+03:00
 
 ## API Description
 
